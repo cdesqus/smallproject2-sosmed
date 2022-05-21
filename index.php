@@ -32,7 +32,7 @@ echo php_uname('n'); // may output e.g,: sandie
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Selamat datang di Pesbuk</h1>
+                        <h1>Selamat datang di Pesbuk Gawai</h1>
                         <p>Bergabunglah bersama jutaan orang lainnya...</p>
                     </div>
                     <div class="col-md-4">
@@ -48,7 +48,7 @@ echo php_uname('n'); // may output e.g,: sandie
         <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <img class="img img-responsive" src="img/connect.png" />
+                        <img class="img img-responsive" src="arn:aws:s3:::bucketstagegawai/img/connect.png" />
                     </div>
                 </div>
             </div>
